@@ -6,7 +6,7 @@ This is a Hackathon style event where we meet and contribute to opensource proje
 
 You can pick any opensource JavaScript library that is related to React, React Native, GraphQL and Node.js.
 
-Checkout [issues](https://github.com/ReactBangalore/open-source-day/issues) to find the good list of beginner friendly issues you can start contributing to. 
+Checkout [issues](https://github.com/ReactBangalore/open-source-day/issues) to find good list of beginner friendly issues and contribute to them at the event.
 
 Feel free to add new issues to this repo when you come across issues that are interesting for attendees to contibute.
 
