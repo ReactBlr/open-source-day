@@ -2,7 +2,7 @@
 
 This is a Hackathon style event where we meet and contribute to opensource projects.
 
-### What libraries should we contribute to ?
+### Which libraries should we contribute to ?
 
 You can pick any opensource JavaScript library that is related to React, React Native, GraphQL and Node.js.
 
